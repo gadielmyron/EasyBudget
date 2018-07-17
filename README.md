@@ -21,6 +21,6 @@ The project is made possible by some external libraries made by awesome guys tha
 
 Caldroid: a library to display a customizable Calendar https://github.com/roomorama/Caldroid
 FloatingActionButton: library to display a FAB with actions https://github.com/futuresimple/android-floating-action-button
-CircleIndicator: library to display a circle indicator on the onboarding view pager https://github.com/ongakuer/CircleIndicator
+CircleIndicator: library to display a circle indicator on the onboarding view pager https://github.com/gadielmyron/EasyBudget
 Contact
 You can contact me regarding EasyBudget using this email: easybudget@benoitletondor.com
